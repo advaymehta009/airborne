@@ -1,0 +1,202 @@
+{
+  "agents": [
+    {
+      "name": "A",
+      "is_available": 0,
+      "available_since": 2,
+      "role": "sales"
+    },
+    {
+      "name": "B",
+      "is_available": 0,
+      "available_since": 3,
+      "role": "sales"
+    },
+    {
+      "name": "C",
+      "is_available": 0,
+      "available_since": 4,
+      "role": "support"
+    },
+    {
+      "name": "D",
+      "is_available": 1,
+      "available_since": 1,
+      "role": "sales"
+    },
+    {
+      "name": "D1",
+      "is_available": 1,
+      "available_since": 5,
+      "role": "support"
+    },
+    {
+     "name": "E",
+      "is_available": 0,
+      "available_since": 2,
+      "role": "support"
+    },
+    {
+      "name": "E1",
+      "is_available": 1,
+      "available_since": 3,
+      "role": "sales"
+    },
+    {
+      "name": "F",
+      "is_available": 1,
+      "available_since": 4,
+      "role": "sales"
+    },
+    {
+      "name": "G",
+      "is_available": 0,
+      "available_since": 5,
+      "role": "support"
+    },
+    {
+      "name": "H",
+      "is_available": 1,
+      "available_since": 6,
+      "role": "sales"
+    },
+    {
+      "name": "I",
+      "is_available": 0,
+      "available_since": 7,
+      "role": "sales"
+    },
+    {
+     "name": "J",
+      "is_available": 0,
+      "available_since": 9,
+      "role": "sales"
+    },
+    {
+      "name": "K",
+      "is_available": 1,
+      "available_since": 1,
+      "role": "support"
+    },
+    {
+      "name": "L",
+      "is_available": 1,
+      "available_since": 5,
+      "role": "support"
+    },
+    {
+      "name": "M",
+      "is_available": 0,
+      "available_since": 7,
+      "role": "support"
+    },
+    {
+      "name": "N",
+      "is_available": 1,
+      "available_since": 8,
+      "role": "support"
+    },
+    {
+      "name": "O",
+      "is_available": 0,
+      "available_since": 7,
+      "role": "support"
+    },
+    {
+      "name": "P",
+      "is_available": 0,
+      "available_since": 8,
+      "role": "sales"
+    },
+    {
+     "name": "Q",
+      "is_available": 1,
+      "available_since": 8,
+      "role": "sales"
+    },
+    {
+      "name": "R",
+      "is_available": 1,
+      "available_since": 9,
+      "role": "sales"
+    },
+    {
+      "name": "S",
+      "is_available": 1,
+      "available_since": 10,
+      "role": "support"
+    },
+    {
+      "name": "T",
+      "is_available": 0,
+      "available_since": 1,
+      "role": "sales"
+    },
+    {
+      "name": "U",
+      "is_available": 0,
+      "available_since": 5,
+      "role": "sales"
+    },
+    {
+      "name": "V",
+      "is_available": 1,
+      "available_since": 4,
+      "role": "support"
+    },
+    {
+     "name": "W",
+      "is_available": 1,
+      "available_since": 3,
+      "role": "sales"
+    },
+    {
+      "name": "X",
+      "is_available": 0,
+      "available_since": 2,
+      "role": "support"
+    },
+    {
+      "name": "Y",
+      "is_available": 1,
+      "available_since": 4,
+      "role": "sales"
+    },
+    {
+      "name": "Z",
+      "is_available": 1,
+      "available_since": 6,
+      "role": "sales"
+    },
+    {
+     "name": "A1",
+      "is_available": 1,
+      "available_since": 8,
+      "role": "support"
+    },
+    {
+      "name": "A2",
+      "is_available": 0,
+      "available_since": 9,
+      "role": "sales"
+    },
+    {
+      "name": "A3",
+      "is_available": 0,
+      "available_since": 10,
+      "role": "support"
+    },
+    {
+      "name": "A4",
+      "is_available": 1,
+      "available_since": 1,
+      "role": "support"
+    },
+    {
+      "name": "A5",
+      "is_available": 1,
+      "available_since": 2,
+      "role": "sales"
+    }    
+  ]
+}

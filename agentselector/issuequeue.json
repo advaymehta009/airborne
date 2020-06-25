@@ -1,0 +1,64 @@
+{
+  "issues": [
+    {
+      "id": "a1",
+      "role": "sales"
+    },
+    {
+      "id": "a2",
+      "role": "sales"
+    },
+    {
+      "id": "a3",
+      "role": "support"
+    },
+    {
+      "id": "a4",
+      "role": "sales"
+    },
+    {
+      "id": "a5",
+      "role": "support"
+    },
+    {
+      "id": "a9",
+      "role": "sales"
+    },
+    {
+      "id": "a78",
+      "role": "sales"
+    },
+    {
+      "id": "a44",
+      "role": "support"
+    },
+    {
+      "id": "a56",
+      "role": "sales"
+    },
+    {
+      "id": "a91",
+      "role": "support"
+    },
+    {
+      "id": "a88",
+      "role": "sales"
+    },
+    {
+      "id": "a47",
+      "role": "support"
+    },
+    {
+      "id": "a12",
+      "role": "sales"
+    },
+    {
+      "id": "a10",
+      "role": "support"
+    },
+    {
+      "id": "a7",
+      "role": "support"
+    }
+  ]
+}
